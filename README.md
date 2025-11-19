@@ -38,8 +38,6 @@ All analysis remains strictly within externally observable signals.
 Please cite the OSF DOI for academic or research use:  
 **［10.17605/OSF.IO/FJUWS］**
 
-## Contact
-Research inquiries: **jordan.capri.1231@gmail.com**
 
 ---
 
@@ -72,9 +70,6 @@ SAFE帯域へ戻すための **SAFE層・非適応型の安定化フレームワ
 学術研究で使用する場合は、以下のDOIをご利用ください：  
 **［10.17605/OSF.IO/FJUWS］**
 
-## 連絡先
-研究・技術問い合わせ：  
-**jordan.capri.1231@gmail.com**
 
 ---
 
@@ -112,4 +107,6 @@ AI安全性・安定化・産業制御・認知構造に関心のある
 研究者・企業の方は、SAFE層の範囲での情報交換や  
 共同検証を歓迎します。
 
-Contact: **jordan.capri.1231@gmail.com**
+## Contact
+Research & technical inquiries:  
+jordan.capri.1231@gmail.com

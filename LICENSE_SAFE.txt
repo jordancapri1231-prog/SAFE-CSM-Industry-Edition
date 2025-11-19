@@ -1,0 +1,41 @@
+────────────────────────────────────────────
+SAFE Academic License 2025
+────────────────────────────────────────────
+
+Copyright (c) 2025 [ジョダ（joda）]
+All rights reserved.
+
+This license applies to the Context Stabilization Module (CSM),
+its accompanying documentation, and associated demonstration code.
+
+────────────────────────────────────────────
+TERMS OF USE
+────────────────────────────────────────────
+
+1. **Usage**
+
+   * This material may be used solely for *academic reference, analysis, or evaluation*.
+   * Any commercial, institutional, or applied use requires a separate NDA-SAFE Agreement.
+
+2. **Modification and Redistribution**
+
+   * Redistribution, reproduction, or modification in any form is *strictly prohibited*
+     without prior written consent from the author.
+
+3. **Liability**
+
+   * This framework is provided for *demonstration and research purposes only*.
+   * The author assumes no responsibility for any result, loss, or damage derived
+     from its use or interpretation.
+
+4. **Scope**
+
+   * No part of this material may be used to reconstruct, infer, or approximate
+     any system-internal logic, control mechanism, or proprietary design.
+
+────────────────────────────────────────────
+CONTACT
+────────────────────────────────────────────
+For research collaboration or SAFE licensing inquiries:
+[jordan.capri.1231@gmail.com]
+────────────────────────────────────────────

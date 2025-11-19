@@ -1,0 +1,27 @@
+PROJECT TITLE:
+SAFE-CSM (Industry Edition)
+
+VERSION:
+1.0
+
+DATE OF PUBLICATION:
+2025-11-19
+
+DESCRIPTION:
+SAFE-CSM (Industry Edition) provides a non-adaptive, external observation framework for monitoring contextual stability in industrial environments.
+
+FILES:
+- SAFE-CSM_industry_demo.py
+- SAFE-CSM_Industry_FullDescription.txt
+- SAFE-CSM_Report_Industry_Edition.txt
+- LICENSE_SAFE.txt
+- figure_industry_overview.png
+
+LICENSE:
+SAFE Academic License 2025
+
+CONTACT:
+[jordan.capri.1231@gmail.com]
+
+NOTE:
+Implementation support requires NDA.

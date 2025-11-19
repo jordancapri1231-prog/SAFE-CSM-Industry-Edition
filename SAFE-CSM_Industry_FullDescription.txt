@@ -1,0 +1,115 @@
+SAFE-CSM (Industry Edition) – Full Description
+External Observation Framework for Industrial Context Stability
+
+Version: 1.0
+Date: 2025-11-19
+Author: ジョダ（joda）
+License: SAFE Academic License 2025
+
+
+============================================================
+1. Introduction
+============================================================
+
+The SAFE-CSM (Industry Edition) is a non-adaptive, external observation framework designed to evaluate contextual stability in industrial environments.
+It does not access or analyze internal AI mechanisms and relies solely on observable external signals.
+
+This edition supports analysis in industrial dashboards, scoring pipelines, and monitoring systems.
+
+
+============================================================
+2. Design Philosophy
+============================================================
+
+- External-only observation  
+- Non-adaptive, fixed-parameter behavior  
+- Simple Δφ index  
+- Minimal, predefined correction  
+- SAFE-layer alignment  
+
+
+============================================================
+3. Ten-Factor Model
+============================================================
+
+Ten external indicators:
+
+  J1–J10
+
+are used to form a multi-dimensional observable space.  
+They are abstract, bounded in [-1, 1], and unrelated to internal AI computation.
+
+
+============================================================
+4. Observable Index Δφ
+============================================================
+
+Δφ is computed as:
+
+    Δφ = J3 – J6
+
+This index represents observable imbalance.  
+“Affect” and “Reflex” are symbolic identifiers only.
+
+
+============================================================
+5. Reloop / Balance
+============================================================
+
+Δφ is considered stable within:
+
+- LOWER = -0.3  
+- UPPER = 0.3  
+
+When Δφ exits this range, a small fixed correction is applied.  
+The correction does not adapt, learn, or depend on history.
+
+
+============================================================
+6. Demonstration Flow
+============================================================
+
+1. Generate J1–J10  
+2. Compute Δφ  
+3. Compute J_total  
+4. Apply SAFE-CSM correction  
+5. Plot Δφ with/without correction  
+
+
+============================================================
+7. SAFE Compliance
+============================================================
+
+SAFE-CSM (Industry Edition):
+
+- Does not access internal AI mechanisms  
+- Does not infer or tune internal states  
+- Does not learn or optimize  
+- Operates only on fixed rules  
+- Uses randomness exclusively for demonstration  
+- Provides observation-only evaluation  
+
+Implementation support for SAFE-CSM (Industry Edition) requires an NDA to prevent misconfiguration or unintended use.
+
+
+============================================================
+8. Files
+============================================================
+
+- SAFE-CSM_industry_demo.py  
+- SAFE-CSM_Report_Industry_Edition.txt  
+- SAFE-CSM_Industry_FullDescription.txt  
+- figure_industry_overview.png  
+- CSM_SAFE_metadata_Industry.txt  
+- LICENSE_SAFE.txt  
+
+
+============================================================
+9. Summary
+============================================================
+
+SAFE-CSM (Industry Edition) provides an external, transparent method for observing contextual drift without accessing or modifying internal components.
+
+------------------------------------------------------------
+End of Document
+------------------------------------------------------------

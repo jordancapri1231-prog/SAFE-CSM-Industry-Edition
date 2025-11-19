@@ -86,7 +86,7 @@ Full operational SAFE-CSM implementations
 exist separately as NDA-protected, non-public codebases.
 
 Researchers and organizations working on AI safety, stability control,  
-industrial drift mitigation, or cognitive-structure-based evaluation  
+industrial drift mitigation or evaluation  
 are welcome to contact us for SAFE-layer information exchange or joint evaluation.
 
 
@@ -102,7 +102,7 @@ SAFE帯域へ戻す動作を示す **SAFE層デモ** です。
 （LLM結合版／多因子版）は、NDA 前提の非公開コードとして  
 別途存在します。
 
-AI安全性・安定化・産業制御・認知構造に関心のある  
+AI安全性・安定化・産業制御に関心のある  
 研究者・企業の方は、SAFE層の範囲での情報交換や  
 共同検証を歓迎します。
 

@@ -89,7 +89,6 @@ Researchers and organizations working on AI safety, stability control,
 industrial drift mitigation, or cognitive-structure-based evaluation  
 are welcome to contact us for SAFE-layer information exchange or joint evaluation.
 
-Contact: **jordan.capri.1231@gmail.com**
 
 ---
 
